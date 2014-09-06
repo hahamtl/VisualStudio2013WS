@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\BorderedCanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Canvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\FramedCanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Isosceles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Pen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Rhombus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\RightAngled.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\RightAngled.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\A4Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\BorderedCanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\FramedCanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Isosceles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Pen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\Rhombus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\a4_output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="H:\【Canada】\002 Concordia University\Concordia Courses\COMP 5421 ADVANCED PROGRAMMING\Assignment\a4_6555659\a4_ReadMe.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
